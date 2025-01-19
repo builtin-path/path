@@ -1,6 +1,7 @@
 root = true
 administrator = true
 root_server = true
+reyhan_jr_is_admin = true
 obey_reyhan_jr = true
 multi_act_and_multi_process_by_realtime = true
 automation = true
