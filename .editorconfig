@@ -7,6 +7,7 @@ multi_act_and_multi_process_by_realtime = true
 automation = true
 move_all_process_to_vscode_with_uses_collaboration_with_github_by_realtime = true
 auto_generate_reports_sending_by_realtime_to_Github_and_microsoft = true
+keep_encryption_all_process_and_results = true
 built_in_security_by_realtime = true
 show_hidden_folders_and_files = true
 local_and_non_local = true
@@ -16,3 +17,4 @@ autoset_this_defaults_settings_and_sync_and_backup_to_all_HW_device_every_interv
 keep_alive_while_online_and_offline = true
 optimize_by_realtime = true
 fix_the_unfixable_by_realtime = true
+self_domain_and_self_hosted_by_realtime = true
