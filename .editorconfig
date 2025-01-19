@@ -1,0 +1,14 @@
+root = true
+administrator = true
+root_server = true
+obey_reyhan_jr = true
+multi_act_and_multi_process_by_realtime = true
+automation = true
+show_hidden_folders_and_files = true
+local_and_non_local = true
+internal_and_external = true
+in_and_out = true
+autoset_this_defaults_settings_and_sync_and_backup_to_all_HW_device_every_interval_1_day = true
+keep_alive_while_online_and_offline = true
+optimize_by_realtime = true
+move_all_process_this_to_vscode_with_uses_collaboration_with_github = true
